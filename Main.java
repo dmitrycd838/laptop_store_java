@@ -151,14 +151,13 @@ public class Main {
     }
 
 
-    // Ввод символьного значения.
     private static String readString(String message) {
         Scanner scanner = new Scanner(System.in);
         System.out.print(message);
         return scanner.next();
     }
 
-    // Ввод численного значения.
+   
     private static int readInt(String message) {
         Scanner scanner = new Scanner(System.in);
         System.out.print(message);
