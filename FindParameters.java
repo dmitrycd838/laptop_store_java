@@ -1,3 +1,5 @@
+// функции для ввода данных
+
 public class FindParameters {
     public int activeParameter;
     public String processor;
